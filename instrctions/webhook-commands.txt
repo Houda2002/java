@@ -1,4 +1,4 @@
-jjjjjjjjkkJenkins side:
+kkkkkjjjjjjjjkkJenkins side:
 -------------
 1- install "github integration plugin" in jenkins
 2- in jenkins job> build triggers : check the github hook option
