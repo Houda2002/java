@@ -1,4 +1,4 @@
-Jenkins side:
+kkJenkins side:
 -------------
 1- install "github integration plugin" in jenkins
 2- in jenkins job> build triggers : check the github hook option
@@ -12,4 +12,4 @@ in Github side:
 please don't forget the last "/" in this URL as it is mandatory.
 4- change content type to "application-json"
 5- click the radio button "just the push event"
-jj
+jjkkkkk
